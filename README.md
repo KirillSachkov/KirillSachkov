@@ -12,6 +12,9 @@
 </a>  
 
 
+<br/> 
+
+
 I am engaged in full-stack development. I write backend using .NET Core, and frontend using React. I have worked in healthcare, video surveillance, and security sectors. I am constantly learning new technologies and run a YouTube channel with educational videos for beginner programmers.  
 
 

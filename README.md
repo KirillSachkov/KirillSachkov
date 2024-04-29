@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/@KirillSachkov" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 
 
@@ -41,7 +41,7 @@ I am engaged in full-stack development. I write backend using .NET Core, and fro
 <br/>  
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=KirillSachkov&&style=flat-square)
   
 
 <br/>
